@@ -1,0 +1,53 @@
+[
+  {
+    "type": "EditText",
+    "hint": "Enter your name"
+  },
+  {
+    "type": "EditText",
+    "hint": "Enter your name2"
+  },
+
+  {
+    "type": "Spinner",
+    "items": [
+      "Option 1",
+      "Option 2",
+      "Option 3"
+    ]
+  },
+  {
+    "type": "Spinner",
+    "items": [
+      "data 1",
+      "Option 2",
+      "Option 3"
+    ]
+  },
+  {
+    "type": "Spinner",
+    "items": [
+      "data 1",
+      "Option 2",
+      "Option 3"
+    ]
+  },
+  {
+    "type": "Button",
+    "text": "Click Me"
+  },
+  {
+    "type": "Button",
+    "text": "Click you"
+  },
+  {
+    "type": "DatePicker",
+    "hint": "Select a date",
+    "id": "datePicker1"
+  },
+  {
+    "type": "TimePicker",
+    "hint": "Select a time",
+    "id": "timePicker1"
+  }
+]
